@@ -26,6 +26,7 @@ function funcForExercise1()
 
   // step 3: call the registerUser function above, passing in the 
   // firstName and lastName as arguments.
+ registerUser(firstName, lastName);
 }
 
 
